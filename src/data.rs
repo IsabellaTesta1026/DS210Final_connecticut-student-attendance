@@ -1,15 +1,21 @@
+//Purpose: This module handles loading and parsing district-level attendance data from a CSV file
+//It then structures it into a usable Rust struct format
+
+
 //import libraries
 //Catch errors and use hash
 use std::collections::HashMap;
 use std::error::Error;
+
 //External imports
 //Transmits to storage
 use serde::Deserialize;
 //Reads external file
 use csv::ReaderBuilder;
-//
+
 //Debug
 #[derive(Debug, Deserialize)]
+//struct 1: Raw District Record
 //Struct meant to represent the raw data from the file
 //so each column of data is grouped and matched with its specific field
 //The values are saved as a string to ensure exact values
@@ -35,15 +41,26 @@ struct RawDistrictRecord {
 
 //debug
 #[derive(Debug)]
+//Struct 2: District Record:
 //Struct in order to parse data in hopes of cleaning as needed
-//end values should be as follows:
+//Stores the rates as a floating point and maps to each year
 pub struct DistrictRecord {
     pub district_name: String,
     pub student_group: String,
     //Attendance is saved as a map to cover each year and f64 to allow for more exact percentages
     pub rates_by_year: HashMap<String, f64>,
 }
-//loads the CSV file and adds value to each District Record
+
+//Function 1: Load Data
+//Reads a CSV file from the given path and returns a vector of cleaned `DistrictRecords'.
+//Inputs:
+    //path`: file path to the CSV data
+//Outputs:
+    //Result<Vec<DistrictRecord>, Box<dyn Error>>`: a vector of cleaned records or an error
+//Logic:
+    //Parses each row into a `RawDistrictRecord`
+    //Converts attendance percentages from strings to `f64`
+    //Stores each record into a new `DistrictRecord`
 pub fn load_data(path: &str) -> Result<Vec<DistrictRecord>, Box<dyn Error>> {
     let mut rdr = ReaderBuilder::new().has_headers(true).from_path(path)?;
     let mut records = Vec::new();
