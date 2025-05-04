@@ -1,0 +1,1169 @@
+﻿Included student groups (13 total):
+- Hispanic/Latino of any race
+- Students With High Needs
+- Free Meal Eligible
+- Free/Reduced Price Meal Eligible
+- English Learners
+- Students Without High Needs
+- Students Experiencing Homelessness
+- Students With Disabilities
+- Reduced Price Meal Eligible
+- All other races
+- Black or African American
+- All Students
+- White
+
+
+Group: Hispanic/Latino of any race
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Danbury School District <--> New Milford School District
+Euclidean: 0.002784
+Manhattan: 0.005300
+   Danbury School District   => [0.9502, 0.9323, 0.9195, 0.9246]
+   New Milford School District => [0.9511, 0.9332, 0.9177, 0.9229]
+
+
+2. Newtown School District <--> Granby School District
+Euclidean: 0.003114
+Manhattan: 0.004600
+   Newtown School District   => [0.9572, 0.9612, 0.9398, 0.9395]
+   Granby School District    => [0.9576, 0.9613, 0.9411, 0.9367]
+
+
+3. Odyssey Community School District <--> Regional School District 05
+Euclidean: 0.003554
+Manhattan: 0.005300
+   Odyssey Community School District => [0.9507, 0.9391, 0.9298, 0.939]
+   Regional School District 05 => [0.9509, 0.938, 0.9331, 0.9397]
+
+
+4. Wilton School District <--> Darien School District
+Euclidean: 0.003667
+Manhattan: 0.005300
+   Wilton School District    => [0.959, 0.9773, 0.9516, 0.9494]
+   Darien School District    => [0.9594, 0.9739, 0.9514, 0.9507]
+
+
+5. East Hampton School District <--> North Haven School District
+Euclidean: 0.003708
+Manhattan: 0.006100
+   East Hampton School District => [0.9554, 0.9543, 0.9418, 0.9375]
+   North Haven School District => [0.9521, 0.9534, 0.9431, 0.9369]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Deep River School District <--> Essex School District
+Euclidean: 1.676877
+Manhattan: 2.917500
+   Deep River School District => [0.0, 0.0, 0.0, 0.9316]
+   Essex School District     => [0.9736, 0.9761, 0.9545, 0.9449]
+
+
+2. Stamford Charter School for Excellence District <--> Essex School District
+Euclidean: 1.676828
+Manhattan: 2.907800
+   Stamford Charter School for Excellence District => [0.0, 0.0, 0.0, 0.9485]
+   Essex School District     => [0.9736, 0.9761, 0.9545, 0.9449]
+
+
+3. Deep River School District <--> New Canaan School District
+Euclidean: 1.672988
+Manhattan: 2.917800
+   Deep River School District => [0.0, 0.0, 0.0, 0.9316]
+   New Canaan School District => [0.9633, 0.9758, 0.9583, 0.952]
+
+
+4. Stamford Charter School for Excellence District <--> New Canaan School District
+Euclidean: 1.672867
+Manhattan: 2.900900
+   Stamford Charter School for Excellence District => [0.0, 0.0, 0.0, 0.9485]
+   New Canaan School District => [0.9633, 0.9758, 0.9583, 0.952]
+
+
+5. Deep River School District <--> Weston School District
+Euclidean: 1.668268
+Manhattan: 2.905700
+   Deep River School District => [0.0, 0.0, 0.0, 0.9316]
+   Weston School District    => [0.9558, 0.9732, 0.9603, 0.948]
+
+
+Average Euclidean distance for group 'Hispanic/Latino of any race': 0.304330
+Average Manhattan distance for group 'Hispanic/Latino of any race': 0.429559
+
+
+Euclidean graph for group 'Hispanic/Latino of any race' has 170 nodes and 5246 edges
+Manhattan graph for group 'Hispanic/Latino of any race' has 170 nodes and 2340 edges
+
+
+
+
+Group: Students With High Needs
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Brass City Charter School District <--> Montville School District
+Euclidean: 0.002431
+Manhattan: 0.003700
+   Brass City Charter School District => [0.9473, 0.8978, 0.9191, 0.9199]
+   Montville School District => [0.9468, 0.8987, 0.919, 0.9177]
+
+
+2. Sprague School District <--> West Haven School District
+Euclidean: 0.002874
+Manhattan: 0.004600
+   Sprague School District   => [0.9371, 0.9019, 0.9069, 0.9148]
+   West Haven School District => [0.9374, 0.9041, 0.9072, 0.913]
+
+
+3. Barkhamsted School District <--> Rocky Hill School District
+Euclidean: 0.003835
+Manhattan: 0.006700
+   Barkhamsted School District => [0.9519, 0.9593, 0.9261, 0.9308]
+   Rocky Hill School District => [0.9514, 0.9622, 0.9239, 0.9297]
+
+
+4. Stonington School District <--> Meriden School District
+Euclidean: 0.004082
+Manhattan: 0.006800
+   Stonington School District => [0.9422, 0.922, 0.9125, 0.9075]
+   Meriden School District   => [0.9414, 0.9229, 0.9089, 0.906]
+
+
+5. Regional School District 18 <--> Westport School District
+Euclidean: 0.004225
+Manhattan: 0.006100
+   Regional School District 18 => [0.9467, 0.9448, 0.923, 0.9328]
+   Westport School District  => [0.9449, 0.9449, 0.9234, 0.929]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Greenwich School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.378983
+Manhattan: 2.032500
+   Greenwich School District => [0.9994, 0.9481, 0.928, 0.9323]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8735, 0.9018]
+
+
+2. Stamford Charter School for Excellence District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.374006
+Manhattan: 2.063000
+   Stamford Charter School for Excellence District => [0.9642, 0.9748, 0.9475, 0.9518]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8735, 0.9018]
+
+
+3. Essex School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.372630
+Manhattan: 2.047100
+   Essex School District     => [0.9659, 0.9717, 0.9501, 0.9347]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8735, 0.9018]
+
+
+4. Darien School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.367414
+Manhattan: 2.052500
+   Darien School District    => [0.9579, 0.9718, 0.9474, 0.9507]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8735, 0.9018]
+
+
+5. Wilton School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.367092
+Manhattan: 2.048800
+   Wilton School District    => [0.9574, 0.9719, 0.9505, 0.9443]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8735, 0.9018]
+
+
+Average Euclidean distance for group 'Students With High Needs': 0.078555
+Average Manhattan distance for group 'Students With High Needs': 0.125862
+
+
+Euclidean graph for group 'Students With High Needs' has 197 nodes and 10228 edges
+Manhattan graph for group 'Students With High Needs' has 197 nodes and 5054 edges
+
+
+
+
+Group: Free Meal Eligible
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Elm City Montessori School District <--> Columbia School District
+Euclidean: 0.000900
+Manhattan: 0.000900
+   Elm City Montessori School District => [0.0, 0.0, 0.0, 0.9288]
+   Columbia School District  => [0.0, 0.0, 0.0, 0.9297]
+
+
+2. North Stonington School District <--> Vernon School District
+Euclidean: 0.001435
+Manhattan: 0.002800
+   North Stonington School District => [0.9423, 0.9151, 0.922, 0.9139]
+   Vernon School District    => [0.9414, 0.9145, 0.9212, 0.9144]
+
+
+3. Waterford School District <--> Clinton School District
+Euclidean: 0.003782
+Manhattan: 0.005200
+   Waterford School District => [0.9393, 0.9232, 0.9283, 0.916]
+   Clinton School District   => [0.9358, 0.9218, 0.9283, 0.9163]
+
+
+4. Seymour School District <--> East Hampton School District
+Euclidean: 0.004263
+Manhattan: 0.006900
+   Seymour School District   => [0.9329, 0.921, 0.9025, 0.9135]
+   East Hampton School District => [0.935, 0.9218, 0.9021, 0.9099]
+
+
+5. Newington School District <--> Lebanon School District
+Euclidean: 0.004426
+Manhattan: 0.007900
+   Newington School District => [0.9424, 0.9344, 0.9173, 0.9136]
+   Lebanon School District   => [0.9409, 0.9381, 0.9187, 0.9123]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Regional School District 11 <--> Greenwich School District
+Euclidean: 1.655373
+Manhattan: 2.890700
+   Regional School District 11 => [0.0, 0.0, 0.0, 0.9013]
+   Greenwich School District => [0.9988, 0.9451, 0.9213, 0.9268]
+
+
+2. Columbia School District <--> Greenwich School District
+Euclidean: 1.655179
+Manhattan: 2.868100
+   Columbia School District  => [0.0, 0.0, 0.0, 0.9297]
+   Greenwich School District => [0.9988, 0.9451, 0.9213, 0.9268]
+
+
+3. Elm City Montessori School District <--> Greenwich School District
+Euclidean: 1.655178
+Manhattan: 2.867200
+   Elm City Montessori School District => [0.0, 0.0, 0.0, 0.9288]
+   Greenwich School District => [0.9988, 0.9451, 0.9213, 0.9268]
+
+
+4. Stamford Charter School for Excellence District <--> Canton School District
+Euclidean: 1.652446
+Manhattan: 2.902500
+   Stamford Charter School for Excellence District => [0.0, 0.9735, 0.9454, 0.9486]
+   Canton School District    => [0.942, 0.0, 0.0, 0.907]
+
+
+5. Regional School District 11 <--> Canterbury School District
+Euclidean: 1.645707
+Manhattan: 2.881000
+   Regional School District 11 => [0.0, 0.0, 0.0, 0.9013]
+   Canterbury School District => [0.9482, 0.9449, 0.9568, 0.9324]
+
+
+Average Euclidean distance for group 'Free Meal Eligible': 0.265815
+Average Manhattan distance for group 'Free Meal Eligible': 0.382715
+
+
+Euclidean graph for group 'Free Meal Eligible' has 159 nodes and 5146 edges
+Manhattan graph for group 'Free Meal Eligible' has 159 nodes and 2478 edges
+
+
+
+
+Group: Free/Reduced Price Meal Eligible
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Brass City Charter School District <--> Montville School District
+Euclidean: 0.001775
+Manhattan: 0.002900
+   Brass City Charter School District => [0.9458, 0.8927, 0.9153, 0.9176]
+   Montville School District => [0.9443, 0.8928, 0.9161, 0.9171]
+
+
+2. Glastonbury School District <--> Newtown School District
+Euclidean: 0.003030
+Manhattan: 0.004600
+   Glastonbury School District => [0.9457, 0.9483, 0.9284, 0.9257]
+   Newtown School District   => [0.9483, 0.9479, 0.9285, 0.9272]
+
+
+3. Seymour School District <--> East Hampton School District
+Euclidean: 0.003704
+Manhattan: 0.006800
+   Seymour School District   => [0.9357, 0.9274, 0.9078, 0.9175]
+   East Hampton School District => [0.938, 0.9269, 0.9095, 0.9152]
+
+
+4. Westport School District <--> Berlin School District
+Euclidean: 0.004017
+Manhattan: 0.006600
+   Westport School District  => [0.9413, 0.9287, 0.9165, 0.9204]
+   Berlin School District    => [0.9403, 0.926, 0.9137, 0.9205]
+
+
+5. Newington School District <--> Granby School District
+Euclidean: 0.004134
+Manhattan: 0.007300
+   Newington School District => [0.9443, 0.9391, 0.921, 0.9176]
+   Granby School District    => [0.9423, 0.9367, 0.9208, 0.9203]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Darien School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.379250
+Manhattan: 2.080900
+   Darien School District    => [0.9684, 0.9773, 0.9512, 0.957]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8718, 0.9012]
+
+
+2. Greenwich School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.377246
+Manhattan: 2.027700
+   Greenwich School District => [0.9991, 0.946, 0.9249, 0.9307]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8718, 0.9012]
+
+
+3. Goodwin University Educational Services (GUES) <--> Stamford Charter School for Excellence District
+Euclidean: 1.373551
+Manhattan: 2.061300
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8718, 0.9012]
+   Stamford Charter School for Excellence District => [0.9641, 0.9743, 0.9463, 0.9496]
+
+
+4. Essex School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.368514
+Manhattan: 2.036100
+   Essex School District     => [0.9666, 0.9655, 0.9452, 0.9318]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8718, 0.9012]
+
+
+5. Goodwin University Educational Services (GUES) <--> Wilton School District
+Euclidean: 1.365645
+Manhattan: 2.040100
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8718, 0.9012]
+   Wilton School District    => [0.9575, 0.9701, 0.9475, 0.938]
+
+
+Average Euclidean distance for group 'Free/Reduced Price Meal Eligible': 0.109470
+Average Manhattan distance for group 'Free/Reduced Price Meal Eligible': 0.161426
+
+
+Euclidean graph for group 'Free/Reduced Price Meal Eligible' has 195 nodes and 9212 edges
+Manhattan graph for group 'Free/Reduced Price Meal Eligible' has 195 nodes and 4446 edges
+
+
+
+
+Group: English Learners
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Wolcott School District <--> Woodbridge School District
+Euclidean: 0.001670
+Manhattan: 0.002700
+   Wolcott School District   => [0.9564, 0.9616, 0.9439, 0.941]
+   Woodbridge School District => [0.9579, 0.9618, 0.9434, 0.9415]
+
+
+2. Branford School District <--> Newington School District
+Euclidean: 0.002581
+Manhattan: 0.004000
+   Branford School District  => [0.9598, 0.9548, 0.9379, 0.9362]
+   Newington School District => [0.9578, 0.9532, 0.9382, 0.9361]
+
+
+3. Wethersfield School District <--> Simsbury School District
+Euclidean: 0.003782
+Manhattan: 0.006000
+   Wethersfield School District => [0.954, 0.9522, 0.9326, 0.9343]
+   Simsbury School District  => [0.9544, 0.9516, 0.9309, 0.931]
+
+
+4. Woodbridge School District <--> North Haven School District
+Euclidean: 0.005204
+Manhattan: 0.009600
+   Woodbridge School District => [0.9579, 0.9618, 0.9434, 0.9415]
+   North Haven School District => [0.9612, 0.9645, 0.9427, 0.9444]
+
+
+5. Wolcott School District <--> East Lyme School District
+Euclidean: 0.005212
+Manhattan: 0.009100
+   Wolcott School District   => [0.9564, 0.9616, 0.9439, 0.941]
+   East Lyme School District => [0.9578, 0.959, 0.9481, 0.9401]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Stamford Charter School for Excellence District <--> Regional School District 13
+Euclidean: 1.686956
+Manhattan: 2.942100
+   Stamford Charter School for Excellence District => [0.9748, 0.9821, 0.9647, 0.9716]
+   Regional School District 13 => [0.0, 0.0, 0.0, 0.9511]
+
+
+2. Regional School District 13 <--> Regional School District 10
+Euclidean: 1.668496
+Manhattan: 2.892200
+   Regional School District 13 => [0.0, 0.0, 0.0, 0.9511]
+   Regional School District 10 => [0.9608, 0.968, 0.9611, 0.9534]
+
+
+3. Guilford School District <--> Regional School District 13
+Euclidean: 1.667702
+Manhattan: 2.908300
+   Guilford School District  => [0.9554, 0.983, 0.9496, 0.9308]
+   Regional School District 13 => [0.0, 0.0, 0.0, 0.9511]
+
+
+4. Rocky Hill School District <--> Regional School District 13
+Euclidean: 1.667495
+Manhattan: 2.895800
+   Rocky Hill School District => [0.9655, 0.9818, 0.9404, 0.943]
+   Regional School District 13 => [0.0, 0.0, 0.0, 0.9511]
+
+
+5. Regional School District 13 <--> Madison School District
+Euclidean: 1.665582
+Manhattan: 2.894000
+   Regional School District 13 => [0.0, 0.0, 0.0, 0.9511]
+   Madison School District   => [0.9583, 0.9677, 0.9588, 0.9603]
+
+
+Average Euclidean distance for group 'English Learners': 0.258755
+Average Manhattan distance for group 'English Learners': 0.373482
+
+
+Euclidean graph for group 'English Learners' has 122 nodes and 2911 edges
+Manhattan graph for group 'English Learners' has 122 nodes and 1300 edges
+
+
+
+
+Group: Students Without High Needs
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Bozrah School District <--> Granby School District
+Euclidean: 0.001378
+Manhattan: 0.002200
+   Bozrah School District    => [0.9667, 0.9738, 0.9538, 0.9497]
+   Granby School District    => [0.9658, 0.9748, 0.9538, 0.9494]
+
+
+2. New London School District <--> Derby School District
+Euclidean: 0.001603
+Manhattan: 0.002700
+   New London School District => [0.9583, 0.9494, 0.9347, 0.9198]
+   Derby School District     => [0.9597, 0.95, 0.9351, 0.9195]
+
+
+3. Lebanon School District <--> Shelton School District
+Euclidean: 0.001758
+Manhattan: 0.002900
+   Lebanon School District   => [0.9588, 0.9687, 0.9489, 0.9394]
+   Shelton School District   => [0.9586, 0.9683, 0.9481, 0.9409]
+
+
+4. Portland School District <--> Bethel School District
+Euclidean: 0.001860
+Manhattan: 0.003200
+   Portland School District  => [0.9623, 0.967, 0.9508, 0.9469]
+   Bethel School District    => [0.9608, 0.9664, 0.9517, 0.9467]
+
+
+5. Thomaston School District <--> Farmington School District
+Euclidean: 0.001913
+Manhattan: 0.003600
+   Thomaston School District => [0.9654, 0.9717, 0.9551, 0.9512]
+   Farmington School District => [0.9659, 0.9731, 0.9543, 0.9521]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Cromwell School District <--> Unified School District #1
+Euclidean: 1.686465
+Manhattan: 2.993300
+   Cromwell School District  => [0.9767, 0.9756, 0.9658, 0.953]
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.8778]
+
+
+2. Greenwich School District <--> Unified School District #1
+Euclidean: 1.686081
+Manhattan: 2.987200
+   Greenwich School District => [0.9998, 0.9716, 0.9457, 0.9479]
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.8778]
+
+
+3. The Bridge Academy District <--> Unified School District #1
+Euclidean: 1.684811
+Manhattan: 2.985900
+   The Bridge Academy District => [0.9681, 0.9788, 0.9687, 0.9481]
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.8778]
+
+
+4. Wilton School District <--> Unified School District #1
+Euclidean: 1.684557
+Manhattan: 2.993300
+   Wilton School District    => [0.9676, 0.9844, 0.9624, 0.9567]
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.8778]
+
+
+5. Deep River School District <--> Unified School District #1
+Euclidean: 1.681593
+Manhattan: 2.987700
+   Deep River School District => [0.9617, 0.983, 0.9646, 0.9562]
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.8778]
+
+
+Average Euclidean distance for group 'Students Without High Needs': 0.072219
+Average Manhattan distance for group 'Students Without High Needs': 0.113918
+
+
+Euclidean graph for group 'Students Without High Needs' has 197 nodes and 15632 edges
+Manhattan graph for group 'Students Without High Needs' has 197 nodes and 10585 edges
+
+
+
+
+Group: Students Experiencing Homelessness
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Norwalk School District <--> New Britain School District
+Euclidean: 0.017671
+Manhattan: 0.024700
+   Norwalk School District   => [0.8858, 0.8305, 0.8014, 0.798]
+   New Britain School District => [0.8844, 0.8135, 0.8037, 0.802]
+
+
+2. Bridgeport School District <--> Stamford School District
+Euclidean: 0.026398
+Manhattan: 0.045900
+   Bridgeport School District => [0.8635, 0.8288, 0.8664, 0.8485]
+   Stamford School District  => [0.8648, 0.8482, 0.8546, 0.8619]
+
+
+3. East Hartford School District <--> New Haven School District
+Euclidean: 0.032862
+Manhattan: 0.050400
+   East Hartford School District => [0.8851, 0.7522, 0.7682, 0.7714]
+   New Haven School District => [0.8838, 0.7693, 0.7639, 0.7991]
+
+
+4. Norwalk School District <--> Connecticut Technical Education and Career System
+Euclidean: 0.035857
+Manhattan: 0.045100
+   Norwalk School District   => [0.8858, 0.8305, 0.8014, 0.798]
+   Connecticut Technical Education and Career System => [0.8882, 0.8286, 0.7661, 0.7925]
+
+
+5. Bristol School District <--> New London School District
+Euclidean: 0.038100
+Manhattan: 0.055400
+   Bristol School District   => [0.8913, 0.8279, 0.88, 0.8736]
+   New London School District => [0.9274, 0.8329, 0.8839, 0.884]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Vernon School District <--> Newington School District
+Euclidean: 1.580739
+Manhattan: 2.780800
+   Vernon School District    => [0.9227, 0.919, 0.8949, 0.8592]
+   Newington School District => [0.0, 0.0, 0.0, 0.9034]
+
+
+2. Norwich School District <--> Newington School District
+Euclidean: 1.565291
+Manhattan: 2.722300
+   Norwich School District   => [0.9114, 0.9349, 0.8633, 0.8907]
+   Newington School District => [0.0, 0.0, 0.0, 0.9034]
+
+
+3. Newington School District <--> New London School District
+Euclidean: 1.528218
+Manhattan: 2.663600
+   Newington School District => [0.0, 0.0, 0.0, 0.9034]
+   New London School District => [0.9274, 0.8329, 0.8839, 0.884]
+
+
+4. Newington School District <--> Stratford School District
+Euclidean: 1.518408
+Manhattan: 2.703400
+   Newington School District => [0.0, 0.0, 0.0, 0.9034]
+   Stratford School District => [0.9013, 0.8411, 0.883, 0.8254]
+
+
+5. Newington School District <--> Bristol School District
+Euclidean: 1.501706
+Manhattan: 2.629000
+   Newington School District => [0.0, 0.0, 0.0, 0.9034]
+   Bristol School District   => [0.8913, 0.8279, 0.88, 0.8736]
+
+
+Average Euclidean distance for group 'Students Experiencing Homelessness': 0.300845
+Average Manhattan distance for group 'Students Experiencing Homelessness': 0.475449
+
+
+Euclidean graph for group 'Students Experiencing Homelessness' has 22 nodes and 11 edges
+Manhattan graph for group 'Students Experiencing Homelessness' has 22 nodes and 3 edges
+
+
+
+
+Group: Students With Disabilities
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Norwalk School District <--> Regional School District 11
+Euclidean: 0.002782
+Manhattan: 0.004800
+   Norwalk School District   => [0.9325, 0.9, 0.8914, 0.9047]
+   Regional School District 11 => [0.934, 0.9015, 0.8896, 0.9047]
+
+
+2. Regional School District 18 <--> South Windsor School District
+Euclidean: 0.002867
+Manhattan: 0.004400
+   Regional School District 18 => [0.9456, 0.9447, 0.9203, 0.9297]
+   South Windsor School District => [0.946, 0.9473, 0.9206, 0.9286]
+
+
+3. Regional School District 18 <--> Westport School District
+Euclidean: 0.002883
+Manhattan: 0.005500
+   Regional School District 18 => [0.9456, 0.9447, 0.9203, 0.9297]
+   Westport School District  => [0.9438, 0.944, 0.9216, 0.928]
+
+
+4. Granby School District <--> Glastonbury School District
+Euclidean: 0.003344
+Manhattan: 0.005800
+   Granby School District    => [0.9462, 0.9527, 0.9242, 0.9266]
+   Glastonbury School District => [0.9441, 0.9525, 0.9265, 0.9278]
+
+
+5. Tolland School District <--> Simsbury School District
+Euclidean: 0.003767
+Manhattan: 0.007100
+   Tolland School District   => [0.9492, 0.9513, 0.9149, 0.9272]
+   Simsbury School District  => [0.9477, 0.9524, 0.9166, 0.9244]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Unified School District #1 <--> Essex School District
+Euclidean: 1.678274
+Manhattan: 2.912800
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.9368]
+   Essex School District     => [0.9673, 0.9811, 0.9583, 0.9429]
+
+
+2. Unified School District #1 <--> Regional School District 17
+Euclidean: 1.663720
+Manhattan: 2.882400
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.9368]
+   Regional School District 17 => [0.9633, 0.9655, 0.9528, 0.9376]
+
+
+3. Wilton School District <--> Unified School District #1
+Euclidean: 1.661756
+Manhattan: 2.884500
+   Wilton School District    => [0.9562, 0.9715, 0.9504, 0.9432]
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.9368]
+
+
+4. Unified School District #1 <--> Stamford Charter School for Excellence District
+Euclidean: 1.661064
+Manhattan: 2.896000
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.9368]
+   Stamford Charter School for Excellence District => [0.9518, 0.9796, 0.9451, 0.9563]
+
+
+5. Unified School District #1 <--> Darien School District
+Euclidean: 1.659858
+Manhattan: 2.887900
+   Unified School District #1 => [0.0, 0.0, 0.0, 0.9368]
+   Darien School District    => [0.9574, 0.9713, 0.946, 0.95]
+
+
+Average Euclidean distance for group 'Students With Disabilities': 0.151482
+Average Manhattan distance for group 'Students With Disabilities': 0.233689
+
+
+Euclidean graph for group 'Students With Disabilities' has 189 nodes and 6786 edges
+Manhattan graph for group 'Students With Disabilities' has 189 nodes and 2761 edges
+
+
+
+
+Group: Reduced Price Meal Eligible
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Stonington School District <--> Stratford School District
+Euclidean: 0.001196
+Manhattan: 0.002100
+   Stonington School District => [0.9477, 0.926, 0.9261, 0.9235]
+   Stratford School District => [0.9468, 0.9266, 0.9256, 0.9234]
+
+
+2. Waterford School District <--> Fairfield School District
+Euclidean: 0.003050
+Manhattan: 0.005200
+   Waterford School District => [0.9531, 0.9273, 0.9409, 0.9349]
+   Fairfield School District => [0.9535, 0.9256, 0.9433, 0.9356]
+
+
+3. Stamford School District <--> Integrated Day Charter School District
+Euclidean: 0.003303
+Manhattan: 0.006300
+   Stamford School District  => [0.9503, 0.9423, 0.9275, 0.923]
+   Integrated Day Charter School District => [0.9484, 0.9438, 0.9283, 0.9251]
+
+
+4. Regional School District 18 <--> Winchester School District
+Euclidean: 0.003811
+Manhattan: 0.006800
+   Regional School District 18 => [0.9455, 0.9413, 0.9335, 0.9437]
+   Winchester School District => [0.945, 0.9442, 0.9316, 0.9452]
+
+
+5. West Haven School District <--> Connecticut
+Euclidean: 0.003843
+Manhattan: 0.006700
+   West Haven School District => [0.9528, 0.9357, 0.9251, 0.9293]
+   Connecticut               => [0.9518, 0.9352, 0.9225, 0.9267]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Greenwich School District <--> Columbia School District
+Euclidean: 1.677973
+Manhattan: 2.922100
+   Greenwich School District => [1.0, 0.967, 0.9382, 0.9457]
+   Columbia School District  => [0.0, 0.0, 0.0, 0.9626]
+
+
+2. Greenwich School District <--> Regional School District 11
+Euclidean: 1.677956
+Manhattan: 2.920300
+   Greenwich School District => [1.0, 0.967, 0.9382, 0.9457]
+   Regional School District 11 => [0.0, 0.0, 0.0, 0.9306]
+
+
+3. Regional School District 17 <--> Regional School District 11
+Euclidean: 1.670116
+Manhattan: 2.916900
+   Regional School District 17 => [0.966, 0.9666, 0.9598, 0.9551]
+   Regional School District 11 => [0.0, 0.0, 0.0, 0.9306]
+
+
+4. Regional School District 17 <--> Columbia School District
+Euclidean: 1.669953
+Manhattan: 2.899900
+   Regional School District 17 => [0.966, 0.9666, 0.9598, 0.9551]
+   Columbia School District  => [0.0, 0.0, 0.0, 0.9626]
+
+
+5. Stamford Charter School for Excellence District <--> Canton School District
+Euclidean: 1.664121
+Manhattan: 2.922100
+   Stamford Charter School for Excellence District => [0.0, 0.979, 0.9501, 0.954]
+   Canton School District    => [0.9521, 0.0, 0.0, 0.9131]
+
+
+Average Euclidean distance for group 'Reduced Price Meal Eligible': 0.246222
+Average Manhattan distance for group 'Reduced Price Meal Eligible': 0.331568
+
+
+Euclidean graph for group 'Reduced Price Meal Eligible' has 150 nodes and 6220 edges
+Manhattan graph for group 'Reduced Price Meal Eligible' has 150 nodes and 2933 edges
+
+
+
+
+Group: All other races
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Avon School District <--> Weston School District
+Euclidean: 0.002220
+Manhattan: 0.003700
+   Avon School District      => [0.9643, 0.9764, 0.9551, 0.9515]
+   Weston School District    => [0.9639, 0.976, 0.957, 0.9505]
+
+
+2. Regional School District 09 <--> Southington School District
+Euclidean: 0.002867
+Manhattan: 0.004600
+   Regional School District 09 => [0.9562, 0.9646, 0.9462, 0.9397]
+   Southington School District => [0.9538, 0.9639, 0.9448, 0.9398]
+
+
+3. North Haven School District <--> Easton School District
+Euclidean: 0.002914
+Manhattan: 0.005100
+   North Haven School District => [0.9602, 0.9744, 0.9553, 0.951]
+   Easton School District    => [0.9599, 0.976, 0.9531, 0.952]
+
+
+4. Woodbridge School District <--> Easton School District
+Euclidean: 0.002941
+Manhattan: 0.004700
+   Woodbridge School District => [0.9577, 0.9756, 0.9533, 0.9501]
+   Easton School District    => [0.9599, 0.976, 0.9531, 0.952]
+
+
+5. Darien School District <--> New Canaan School District
+Euclidean: 0.003100
+Manhattan: 0.005900
+   Darien School District    => [0.9662, 0.984, 0.9646, 0.9597]
+   New Canaan School District => [0.964, 0.983, 0.9635, 0.9613]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Greenwich School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.690397
+Manhattan: 2.981200
+   Greenwich School District => [0.9998, 0.977, 0.9488, 0.9524]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.8968]
+
+
+2. Interdistrict School for Arts and Comm District <--> Greenwich School District
+Euclidean: 1.689965
+Manhattan: 2.966000
+   Interdistrict School for Arts and Comm District => [0.0, 0.0, 0.0, 0.912]
+   Greenwich School District => [0.9998, 0.977, 0.9488, 0.9524]
+
+
+3. Greenwich School District <--> Regional School District 18
+Euclidean: 1.689501
+Manhattan: 2.933500
+   Greenwich School District => [0.9998, 0.977, 0.9488, 0.9524]
+   Regional School District 18 => [0.0, 0.0, 0.0, 0.9445]
+
+
+4. Regional School District 14 <--> Greenwich School District
+Euclidean: 1.689486
+Manhattan: 2.928900
+   Regional School District 14 => [0.0, 0.0, 0.0, 0.9491]
+   Greenwich School District => [0.9998, 0.977, 0.9488, 0.9524]
+
+
+5. Wilton School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.685565
+Manhattan: 2.977300
+   Wilton School District    => [0.9681, 0.986, 0.9634, 0.9566]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.8968]
+
+
+Average Euclidean distance for group 'All other races': 0.228941
+Average Manhattan distance for group 'All other races': 0.370071
+
+
+Euclidean graph for group 'All other races' has 119 nodes and 3627 edges
+Manhattan graph for group 'All other races' has 119 nodes and 1981 edges
+
+
+
+
+Group: Black or African American
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Park City Prep Charter School District <--> Side By Side Charter School District
+Euclidean: 0.003410
+Manhattan: 0.005900
+   Park City Prep Charter School District => [0.9637, 0.9302, 0.9488, 0.9455]
+   Side By Side Charter School District => [0.9656, 0.9317, 0.9487, 0.9431]
+
+
+2. Westport School District <--> North Haven School District
+Euclidean: 0.005508
+Manhattan: 0.008200
+   Westport School District  => [0.9595, 0.9528, 0.9432, 0.9434]
+   North Haven School District => [0.9589, 0.9522, 0.9451, 0.9485]
+
+
+3. Simsbury School District <--> Wallingford School District
+Euclidean: 0.005661
+Manhattan: 0.010300
+   Simsbury School District  => [0.9562, 0.9461, 0.9229, 0.9297]
+   Wallingford School District => [0.9532, 0.9451, 0.9208, 0.9339]
+
+
+4. Newtown School District <--> Orange School District
+Euclidean: 0.005778
+Manhattan: 0.010900
+   Newtown School District   => [0.9677, 0.9724, 0.9542, 0.9506]
+   Orange School District    => [0.9646, 0.9703, 0.9501, 0.9522]
+
+
+5. Wolcott School District <--> Cromwell School District
+Euclidean: 0.005925
+Manhattan: 0.011000
+   Wolcott School District   => [0.9624, 0.9546, 0.9547, 0.9503]
+   Cromwell School District  => [0.9662, 0.9509, 0.9536, 0.9479]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Darien School District <--> Regional School District 14
+Euclidean: 1.682684
+Manhattan: 2.942000
+   Darien School District    => [0.9762, 0.9817, 0.956, 0.9654]
+   Regional School District 14 => [0.0, 0.0, 0.0, 0.9373]
+
+
+2. Monroe School District <--> Regional School District 14
+Euclidean: 1.676913
+Manhattan: 2.920000
+   Monroe School District    => [0.969, 0.9759, 0.9594, 0.953]
+   Regional School District 14 => [0.0, 0.0, 0.0, 0.9373]
+
+
+3. Wilton School District <--> Regional School District 14
+Euclidean: 1.676419
+Manhattan: 2.934800
+   Wilton School District    => [0.969, 0.9717, 0.9624, 0.969]
+   Regional School District 14 => [0.0, 0.0, 0.0, 0.9373]
+
+
+4. Regional School District 14 <--> Easton School District
+Euclidean: 1.675054
+Manhattan: 2.920000
+   Regional School District 14 => [0.0, 0.0, 0.0, 0.9373]
+   Easton School District    => [0.9627, 0.9778, 0.9605, 0.9563]
+
+
+5. Greenwich School District <--> Regional School District 14
+Euclidean: 1.674743
+Manhattan: 2.913600
+   Greenwich School District => [0.9989, 0.9616, 0.9392, 0.9512]
+   Regional School District 14 => [0.0, 0.0, 0.0, 0.9373]
+
+
+Average Euclidean distance for group 'Black or African American': 0.161066
+Average Manhattan distance for group 'Black or African American': 0.250345
+
+
+Euclidean graph for group 'Black or African American' has 126 nodes and 3105 edges
+Manhattan graph for group 'Black or African American' has 126 nodes and 1313 edges
+
+
+
+
+Group: All Students
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Newtown School District <--> Bozrah School District
+Euclidean: 0.001819
+Manhattan: 0.002900
+   Newtown School District   => [0.9589, 0.9667, 0.9471, 0.9427]
+   Bozrah School District    => [0.9573, 0.966, 0.9476, 0.9426]
+
+
+2. Berlin School District <--> Regional School District 13
+Euclidean: 0.002017
+Manhattan: 0.002900
+   Berlin School District    => [0.9562, 0.96, 0.9386, 0.9407]
+   Regional School District 13 => [0.9559, 0.9581, 0.9385, 0.9401]
+
+
+3. Hebron School District <--> Easton School District
+Euclidean: 0.002220
+Manhattan: 0.003900
+   Hebron School District    => [0.9585, 0.971, 0.9531, 0.9479]
+   Easton School District    => [0.9569, 0.9706, 0.9517, 0.9474]
+
+
+4. Thomaston School District <--> Ellington School District
+Euclidean: 0.002265
+Manhattan: 0.003900
+   Thomaston School District => [0.9565, 0.9556, 0.9445, 0.9406]
+   Ellington School District => [0.9551, 0.9542, 0.9445, 0.9417]
+
+
+5. Kent School District <--> Bozrah School District
+Euclidean: 0.002360
+Manhattan: 0.003900
+   Kent School District      => [0.9565, 0.9664, 0.947, 0.9447]
+   Bozrah School District    => [0.9573, 0.966, 0.9476, 0.9426]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Goodwin University Educational Services (GUES) <--> Greenwich School District
+Euclidean: 1.390667
+Manhattan: 2.052700
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8861, 0.909]
+   Greenwich School District => [0.9996, 0.9647, 0.9403, 0.9432]
+
+
+2. Wilton School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.379767
+Manhattan: 2.066000
+   Wilton School District    => [0.9656, 0.9818, 0.9597, 0.954]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8861, 0.909]
+
+
+3. Goodwin University Educational Services (GUES) <--> Stamford Charter School for Excellence District
+Euclidean: 1.375668
+Manhattan: 2.047400
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8861, 0.909]
+   Stamford Charter School for Excellence District => [0.9622, 0.9803, 0.947, 0.953]
+
+
+4. Darien School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.374411
+Manhattan: 2.056600
+   Darien School District    => [0.9621, 0.9779, 0.9563, 0.9554]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8861, 0.909]
+
+
+5. Cromwell School District <--> Goodwin University Educational Services (GUES)
+Euclidean: 1.373532
+Manhattan: 2.043500
+   Cromwell School District  => [0.9733, 0.966, 0.9568, 0.9425]
+   Goodwin University Educational Services (GUES) => [0.0, 0.0, 0.8861, 0.909]
+
+
+Average Euclidean distance for group 'All Students': 0.066253
+Average Manhattan distance for group 'All Students': 0.111012
+
+
+Euclidean graph for group 'All Students' has 201 nodes and 12138 edges
+Manhattan graph for group 'All Students' has 201 nodes and 7156 edges
+
+
+
+
+Group: White
+
+
+Top 5 most similar (lowest Euclidean distance) districts:
+
+
+1. Salem School District <--> Portland School District
+Euclidean: 0.002254
+Manhattan: 0.003600
+   Salem School District     => [0.9555, 0.9565, 0.9459, 0.9394]
+   Portland School District  => [0.9574, 0.957, 0.9448, 0.9395]
+
+
+2. Sherman School District <--> Lebanon School District
+Euclidean: 0.002396
+Manhattan: 0.004000
+   Sherman School District   => [0.9529, 0.9605, 0.9393, 0.9301]
+   Lebanon School District   => [0.9531, 0.961, 0.9409, 0.9318]
+
+
+3. Bozrah School District <--> Newtown School District
+Euclidean: 0.002766
+Manhattan: 0.005500
+   Bozrah School District    => [0.9569, 0.9684, 0.9488, 0.9413]
+   Newtown School District   => [0.9585, 0.967, 0.9476, 0.9426]
+
+
+4. Redding School District <--> Newington School District
+Euclidean: 0.002922
+Manhattan: 0.005400
+   Redding School District   => [0.9575, 0.9707, 0.9511, 0.9382]
+   Newington School District => [0.9566, 0.9715, 0.9489, 0.9397]
+
+
+5. Regional School District 18 <--> Regional School District 13
+Euclidean: 0.002955
+Manhattan: 0.005300
+   Regional School District 18 => [0.9541, 0.961, 0.9392, 0.9396]
+   Regional School District 13 => [0.9558, 0.9592, 0.9394, 0.9412]
+
+
+Top 5 most dissimilar (highest Euclidean distance) districts:
+
+
+1. Greenwich School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.680196
+Manhattan: 2.943700
+   Greenwich School District => [0.9998, 0.9664, 0.9425, 0.9448]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.9098]
+
+
+2. Wilton School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.678775
+Manhattan: 2.950400
+   Wilton School District    => [0.9656, 0.9815, 0.9595, 0.9536]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.9098]
+
+
+3. Cromwell School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.677846
+Manhattan: 2.940800
+   Cromwell School District  => [0.9751, 0.9709, 0.9594, 0.9452]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.9098]
+
+
+4. Madison School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.673627
+Manhattan: 2.940200
+   Madison School District   => [0.962, 0.9758, 0.96, 0.9522]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.9098]
+
+
+5. Darien School District <--> Achievement First Bridgeport Academy District
+Euclidean: 1.672064
+Manhattan: 2.940300
+   Darien School District    => [0.9617, 0.9775, 0.9557, 0.9552]
+   Achievement First Bridgeport Academy District => [0.0, 0.0, 0.0, 0.9098]
+
+
+Average Euclidean distance for group 'White': 0.119703
+Average Manhattan distance for group 'White': 0.182264
+
+
+Euclidean graph for group 'White' has 184 nodes and 11481 edges
+Manhattan graph for group 'White' has 184 nodes and 7302 edges
