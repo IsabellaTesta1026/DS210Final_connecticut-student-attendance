@@ -7,7 +7,7 @@ use std::error::Error;
 use serde::Deserialize;
 //Reads external file
 use csv::ReaderBuilder;
-
+//
 //Debug
 #[derive(Debug, Deserialize)]
 //Struct meant to represent the raw data from the file
