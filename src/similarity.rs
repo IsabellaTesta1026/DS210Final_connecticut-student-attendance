@@ -1,4 +1,17 @@
-//calculations for the Euclidean distances between equal len vectors
+//Purpose: Provides utility functions to compute similarity metrics (Euclidean and Manhattan distances)
+//between two equally-sized numeric vectors. These metrics are used to assess how similar
+//districts are based on attendance data.
+
+//Function 1: euclidean_distance
+//Calculates the Euclidean distance between two vectors of equal length.
+//Inputs:
+    //`a`: reference to a slice of `f64` values
+    //`b`: reference to another slice of `f64` values
+//Output:
+    //A `f64` representing the Euclidean distance
+//Logic:
+    //Sum the squared differences element-wise
+    //Return the square root of the total sum
 pub fn euclidean_distance(a: &[f64], b: &[f64]) -> f64 {
     //check equal len
     assert_eq!(a.len(), b.len());
@@ -12,7 +25,16 @@ pub fn euclidean_distance(a: &[f64], b: &[f64]) -> f64 {
     let dist = sum.powf(0.5);
     dist
 }
-//calculations for the manhattan distance between equal len vectors
+
+//Function 2: manhattan_distance
+//Calculates the Manhattan distance between two vectors of equal length.
+//Inputs:
+    //`a`: reference to a slice of `f64` values
+    //`b`: reference to another slice of `f64` values
+//Output:
+    //A `f64` representing the Manhattan distance
+//Logic:
+    //Sum the absolute differences element-wise
 pub fn manhattan_distance(a: &[f64], b: &[f64]) -> f64 {
     //check equal len
     assert_eq!(a.len(), b.len());
