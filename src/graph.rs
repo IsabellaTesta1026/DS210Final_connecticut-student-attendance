@@ -1,3 +1,6 @@
+//Purpose: Constructs undirected similarity graphs between districts based on their attendance data.
+//Supports both Euclidean and Manhattan distance thresholds for defining similarity.
+
 //sets up the graph by declaring the graph type and that it will be undirected (no directed path for edges)
 use petgraph::graph::Graph;
 use petgraph::Undirected;
@@ -7,8 +10,18 @@ use std::collections::HashMap;
 use crate::similarity::euclidean_distance;
 use crate::similarity::manhattan_distance;
 
-//Build a similarity graph where edges connect districts with distance below a threshold
-//edges are added between districts with Euclidean distance
+//Function 1: build_euclidean_graph
+//Constructs an undirected graph where nodes are districts and edges are placed between
+//districts whose Euclidean distance is below the specified threshold.
+//Inputs:
+    //`vectors`: A map of district names to their attendance feature vectors
+    //`max_distance`: Threshold under which an edge is formed
+//Output:
+    //A `petgraph::Graph` with nodes as district names and edges weighted by distance
+//Logic:
+    //Adds all districts as nodes
+    //Computes pairwise Euclidean distance
+    //Adds an edge between two nodes if the distance is below threshold
 pub fn build_euclidean_graph(
     vectors: &HashMap<String, Vec<f64>>,
     max_distance: f64,
@@ -16,14 +29,14 @@ pub fn build_euclidean_graph(
     let mut graph = Graph::<String, f64, Undirected>::new_undirected();
     let mut node_indices = HashMap::new();
 
-    // Add districts as nodes
+    // Add each district as a graph node
     for district in vectors.keys() {
         let idx = graph.add_node(district.clone());
         node_indices.insert(district, idx);
     }
-    //list of districts for compairson reasons
+    //list of districts for comparison reasons
     let districts: Vec<_> = vectors.keys().cloned().collect();
-    //compare each unique pair of district
+    //compare each unique pair of districts
     for i in 0..districts.len() {
         for j in i + 1..districts.len() {
             let a = &districts[i];
@@ -41,7 +54,18 @@ pub fn build_euclidean_graph(
     graph
 }
 
-///Build a similarity graph using Manhattan distance 
+//Function 2: build_manhattan_graph
+//Constructs an undirected graph where nodes are districts and edges are added
+//between those whose Manhattan distance is below a set threshold.
+//Inputs:
+    //`vectors`: A map of district names to their attendance feature vectors
+    //`max_distance`: Distance cutoff for edge inclusion
+//Output:
+    //An undirected graph with edges weighted by Manhattan distance
+//Logic:
+    //Adds all districts as nodes
+    //For each district pair, calculates Manhattan distance
+    //Adds an edge if distance is below threshold
 pub fn build_manhattan_graph(
     //inputs the district into vectors
     vectors: &HashMap<String, Vec<f64>>,
@@ -51,7 +75,7 @@ pub fn build_manhattan_graph(
     let mut graph = Graph::<String, f64, Undirected>::new_undirected();
     let mut node_indices = HashMap::new();
 
-    // Add nodes
+    // Each district is added as a graph node
     for district in vectors.keys() {
         let idx = graph.add_node(district.clone());
         node_indices.insert(district, idx);
